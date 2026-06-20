@@ -1,0 +1,2 @@
+print("WELCOME HOME")
+print("WELCOME TO MY HOME PAGE")
